@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(43, 43, 43)
+}
+
+header {
+    background-color: #222;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+.titulo{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.centralizador {
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: pink
+}
+
+a:visited{
+    color: rgb(124, 40, 68);
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.especial:hover{
+    color: rgb(255, 96, 168);
+    background-color: rgb(220, 220, 220);
+    text-decoration: none;
+}
